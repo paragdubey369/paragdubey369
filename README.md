@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm PARAG DUBEY</h1>
 
 <div align="center">
-  <img src="" alt="DevOpsShack Banner">
+  <img src="PARAG DUBEY.png" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate HITACHI rail Sector 
