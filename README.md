@@ -4,7 +4,7 @@
   <img src="PARAG DUBEY.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate HITACHI rail Sector 
+<h3 align="center">A passionate DevOps Engineer from India. I work AT HITACHI Rail sts Spa  in Genoa,Italy. 
 <p align="center">
   <a href="https://github.com/paragdubey369">
     <img src="" />
